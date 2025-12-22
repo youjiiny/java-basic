@@ -1,4 +1,4 @@
-package class1.ref;
+package ref;
 
 public class NullMain4 {
     public static void main(String[] args) {
